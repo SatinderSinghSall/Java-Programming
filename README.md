@@ -2,9 +2,9 @@
 
 ---
 
-Satinder Singh Sall
-Full-Stack Engender
-Web & Mobile App
+- Satinder Singh Sall
+- Full-Stack Engender
+- Web & Mobile App
 
 ---
 
