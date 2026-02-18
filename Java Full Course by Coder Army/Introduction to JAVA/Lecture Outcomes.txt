@@ -1,0 +1,10 @@
+What You’ll Learn in This Video:
+
+- What is Java?
+- History and features of Java
+- Why Java is platform independent
+- What is ByteCode?
+- What is JVM (Java Virtual Machine)?
+- Difference between Java and C/C++
+- How Java achieves portability
+- High-level overview of JDK, JRE, JVM

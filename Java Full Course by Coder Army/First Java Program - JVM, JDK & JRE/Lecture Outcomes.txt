@@ -1,0 +1,17 @@
+In this video, we dive deep into the core foundations of Java programming.
+
+If you're starting your journey in Java, this is one of the most important concepts you must understand clearly.
+
+What is JVM (Java Virtual Machine)?
+What is JRE (Java Runtime Environment)?
+What is JDK (Java Development Kit)?
+Difference between JVM, JRE and JDK
+What is JSE (Java Standard Edition)?
+What is JEE (Java Enterprise Edition)?
+What is JME (Java Micro Edition)?
+How Java achieves platform independence
+Writing and running your first Java program – Hello World
+Compiling Java code using javac
+Running Java bytecode using JVM
+
+We will also understand how Java code gets converted into bytecode and how JVM executes it, making Java platform independent.
