@@ -1,0 +1,19 @@
+Java Variables & Data Types Explained | Identifiers, Literals, Keywords | JAVA Full Course #3
+
+In this video, we will deeply understand the foundation of Java programming:
+
+• What are Variables in Java?
+• Identifiers
+• Primitive Data Types in Java
+• What are Literals?
+• Java Reserved Keywords
+• Naming Conventions Best Practices
+
+If you are starting Java from scratch, this is one of the most important lectures because every Java program is built on variables and data types.
+
+We will also cover:
+Memory basics behind variables
+How Java stores different data types
+Difference between literals and variables
+Common beginner mistakes
+Interview & exam important points
